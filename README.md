@@ -1,3 +1,6 @@
+## SOAL
+[https://docs.google.com/document/d/1GKXSDSd4oRrgELDwdJ3lqUXtVOtYIXgOXLpK0O6Ev48/edit?usp=sharing](https://docs.google.com/document/d/1GKXSDSd4oRrgELDwdJ3lqUXtVOtYIXgOXLpK0O6Ev48/edit?usp=sharing)
+
 ## I. PERSIAPAN
 #### 1. Menginstall GIT
 [https://git-scm.com/downloads/win](https://git-scm.com/downloads/win)
